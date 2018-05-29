@@ -13,7 +13,7 @@ using System.Reflection;
 
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
-[assembly: AssemblyInformationalVersion("1.0.0-rc.11+Branch.master.Sha.0e5fd8ff7ee33ec7b37efbfb250a1519c054a6b2")]
+[assembly: AssemblyInformationalVersion("1.0.0-rc.12+Branch.master.Sha.f30a458e5d9bc57b665f25b2c1b8b6fdabdfe889")]
 
 namespace LR4
 {
@@ -24,29 +24,29 @@ namespace LR4
         public static string Major = "1";
         public static string Minor = "0";
         public static string Patch = "0";
-        public static string PreReleaseTag = "rc.11";
-        public static string PreReleaseTagWithDash = "-rc.11";
+        public static string PreReleaseTag = "rc.12";
+        public static string PreReleaseTagWithDash = "-rc.12";
         public static string PreReleaseLabel = "rc";
-        public static string PreReleaseNumber = "11";
+        public static string PreReleaseNumber = "12";
         public static string BuildMetaData = "";
         public static string BuildMetaDataPadded = "";
-        public static string FullBuildMetaData = "Branch.master.Sha.0e5fd8ff7ee33ec7b37efbfb250a1519c054a6b2";
+        public static string FullBuildMetaData = "Branch.master.Sha.f30a458e5d9bc57b665f25b2c1b8b6fdabdfe889";
         public static string MajorMinorPatch = "1.0.0";
-        public static string SemVer = "1.0.0-rc.11";
-        public static string LegacySemVer = "1.0.0-rc11";
-        public static string LegacySemVerPadded = "1.0.0-rc0011";
+        public static string SemVer = "1.0.0-rc.12";
+        public static string LegacySemVer = "1.0.0-rc12";
+        public static string LegacySemVerPadded = "1.0.0-rc0012";
         public static string AssemblySemVer = "1.0.0.0";
         public static string AssemblySemFileVer = "1.0.0.0";
-        public static string FullSemVer = "1.0.0-rc.11";
-        public static string InformationalVersion = "1.0.0-rc.11+Branch.master.Sha.0e5fd8ff7ee33ec7b37efbfb250a1519c054a6b2";
+        public static string FullSemVer = "1.0.0-rc.12";
+        public static string InformationalVersion = "1.0.0-rc.12+Branch.master.Sha.f30a458e5d9bc57b665f25b2c1b8b6fdabdfe889";
         public static string BranchName = "master";
-        public static string Sha = "0e5fd8ff7ee33ec7b37efbfb250a1519c054a6b2";
-        public static string NuGetVersionV2 = "1.0.0-rc0011";
-        public static string NuGetVersion = "1.0.0-rc0011";
-        public static string NuGetPreReleaseTagV2 = "rc0011";
-        public static string NuGetPreReleaseTag = "rc0011";
-        public static string CommitsSinceVersionSource = "11";
-        public static string CommitsSinceVersionSourcePadded = "0011";
+        public static string Sha = "f30a458e5d9bc57b665f25b2c1b8b6fdabdfe889";
+        public static string NuGetVersionV2 = "1.0.0-rc0012";
+        public static string NuGetVersion = "1.0.0-rc0012";
+        public static string NuGetPreReleaseTagV2 = "rc0012";
+        public static string NuGetPreReleaseTag = "rc0012";
+        public static string CommitsSinceVersionSource = "12";
+        public static string CommitsSinceVersionSourcePadded = "0012";
         public static string CommitDate = "2018-05-29";
     }
 
